@@ -40,7 +40,7 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 **Education:** Software Engineering Student.
+* 🎓 **Education:** Software Engineering Student at Universidad Autonoma De Yucatan.
 * 🏆 **Interests:** Competitive Programming, Data Structures, Algorithms, Networking.
 * 🐺 **Community:** CoFounder / Leader of projects at **WEWOLF**.
 * ⚡ **Fun fact:** Passionate about writing and solving complex problems in C++.
