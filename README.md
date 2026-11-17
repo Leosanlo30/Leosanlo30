@@ -44,6 +44,6 @@
 * 🏆 **Interests:** Competitive Programming, Data Structures, Algorithms, Networking.
 * 🐺 **Community:** CoFounder / Leader of projects at **WEWOLF**.
 * ⚡ **Fun fact:** Passionate about writing and solving complex problems in C++.
-* 🎯 **Goal:** Reaching the ICPC Mexican Grand Finals.
+* 🎯 **Awards:** Winner of Hackathon NASA space's app challenge Merida | Global Nominee.
 
 ---
